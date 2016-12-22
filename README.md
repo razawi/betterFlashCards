@@ -1,5 +1,11 @@
 
-#### Work Is still in progress!
+# See the code
+[server](https://github.com/razawi/flash-cards-server)
+
+[angular client](https://github.com/razawi/angular-flashCards-client)
+
+[mini skelaton](https://github.com/razawi/flashCards-client-mini-skelaton)
+
 
 # betterFlahCards
 a nodejs server with angular client to manage better flahs cards.
@@ -54,52 +60,11 @@ The angular directory tree is feature based Instead of the traditional partials/
 directives directory structure. It makes the code more easy to navigate and thereby more scalable and loose-coupled.
 
 ### The server side
-a full REST API In node
-
-### utils
-`` utils/dbBackup ``  a necessary for development tool 
-
-``utils/dbInit`` with some nice ES6 Iterators
-
-
-### Installation Instruction
-
-clone project
-```
-git clone https://github.com/razawi/flash-cards-server.git
-```
-
-cd Into project
-```
-cd flash-cards-server
-```
-
-Install project dependencies
-```
-npm install
-```
-
-Run local server
-```
-node server.js
-```
-
-
-Initialize basic developer database via browser.
-
-```
-127.0.0.1:8888/parsemocks
-```
-
-##### Notice the config directory and modify It by need.
-
-
-Browse to [localhost](127.0.0.1:8888/api) and debug / develop!
-
+a full REST API In node, mocha tests, and utils to maintain the db
 
 ### Client
-There Is a seperate client project in [development](https://github.com/razawi/flashCards-client) 
-
+There [angular client](https://github.com/razawi/flashCards-client) project in still in early development.
+other clients will be added soon 
 
 
 ### Credentials and credits

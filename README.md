@@ -54,8 +54,8 @@ by the dataController module while users data Is managed via passport.js.
 client side is partially ejs templates (Views) while the cards are currently being converted from jquery to angular.
 
 ### Architecture
-server side uses express and a straightforward MVC architecture, cards.ejs is the single page app's index file.
-all other client side files are currently under public/angular.
+server side uses express and a straightforward MVC architecture,
+Client Is currently an angular app with ui.route.
 The angular directory tree is feature based Instead of the traditional partials/models/
 directives directory structure. It makes the code more easy to navigate and thereby more scalable and loose-coupled.
 

@@ -1,3 +1,5 @@
+# See the [Demo](https://flash-notes-admin.herokuapp.com/#/profile)
+click on Curricula and move to category and card
 
 # See the code
 [server](https://github.com/razawi/flash-cards-server)
@@ -66,7 +68,7 @@ a full REST API In node, mocha tests, and utils to maintain the db
 
 ### Client
 There [angular client](https://github.com/razawi/flashCards-client) project in still in early development.
-other clients will be added soon 
+other clients will be added soon
 
 
 ### Credentials and credits
@@ -74,4 +76,3 @@ other clients will be added soon
 It's open source (MIT license)
 
 Feel free to whatever you want to do with it.
-
